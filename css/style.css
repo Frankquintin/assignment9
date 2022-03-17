@@ -67,7 +67,7 @@ section:nth-child(4) {
 	border-top:5px solid orange;
 	padding-top:25px;
 }
-section:nth-child(3) {
+section:nth-child(3)  {
 	display:flex;
 	flex-wrap:wrap;
 }
@@ -107,4 +107,10 @@ button {
 h1 {
 	font-size:300%;
 	color:white;
+}
+
+
+
+body {
+	background-image: url(https://fit-front-end-course.s3.amazonaws.com/franksbkg.jpg);
 }
